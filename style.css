@@ -1,6 +1,7 @@
- @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
- 
-.grid-container {
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap'); # se copio url desde googlefont 
+# a los botones les asigne un color y tamaño 
+.grid-container {          
 
   display: grid;
   grid-template-columns: auto auto auto auto;
